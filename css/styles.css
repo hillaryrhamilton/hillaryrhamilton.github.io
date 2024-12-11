@@ -463,7 +463,6 @@ h2 {
 .abstract {
     color: var(--secondary-text);
     margin-bottom: 10px;
-    font-style: italic;
     padding-left: 22px;
     text-indent: -22px;
 }
