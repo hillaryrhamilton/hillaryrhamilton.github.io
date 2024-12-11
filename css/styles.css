@@ -50,6 +50,10 @@ h2 {
     font-size: clamp(1.2rem, 2vw, 1.5rem);
 }
 
+.ref.ital {
+    font-style: italic;
+}
+
 .page-container {
     display: -webkit-box;
     display: -ms-flexbox;
